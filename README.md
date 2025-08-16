@@ -25,4 +25,4 @@ The dashboard empowers HR managers to:
 * Improve employee engagement and retention through insights.
 
 ScreenShot 
-![HR Dashboard]()
+![HR Dashboard](Snapshot of HR Analytics Dashboard)
