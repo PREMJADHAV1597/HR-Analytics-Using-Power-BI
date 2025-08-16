@@ -25,3 +25,4 @@ The dashboard empowers HR managers to:
 * Improve employee engagement and retention through insights.
 
 ScreenShot 
+https://github.com/PREMJADHAV1597/HR-Analytics-Using-Power-BI/blob/21cef74f89a346ad762f60115a1c430c139d6c43/Snapshot%20of%20HR%20Analytics%20Dashboard
